@@ -1,0 +1,14 @@
+{
+    "name": "bessuraba/wordpress-theme-template",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Slava Losev",
+            "email": "slawa.bessuraba@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "composer/installers": "^1.9"
+    }
+}
